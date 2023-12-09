@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRhM2xxYTFubGQ4dmozdjE0ODkyN2duamVkZnlmN21pcHY0a2NsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
-</div>
+
+![header](https://i2.wp.com/miro.medium.com/0*yBvA5CnEX3Sd4aod.gif)
 
 <h1 align="center">Всем привет! Меня зовут Юля.
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
